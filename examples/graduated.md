@@ -1,7 +1,7 @@
 ## CNCF Graduated Project Logos
 
-*Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are
-displayed on the light grey of tables.*
+_Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are
+displayed on the light grey of tables._
 
 #### Argo Logos
 
